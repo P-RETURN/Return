@@ -2,6 +2,6 @@
 #profile-update-interval: 0
 #subscription-userinfo: upload=0; download=2520072060928; total=0; expire=1772312400
 #announce: Проект "Возвращение", созданный Ретурнером (от англ. Returner - Возвращающийся). Помогаем получать доступ к СМИ, мессенджерам, и прочим источникам "опасной" информации.
-#announce-url: "https://t.me/project_RETURN"
+#announce-url: https://t.me/project_RETURN
 
 vless://844c1db7-1997-4e01-a039-dd176f4e8a3a@123.123.123.123:2332?encryption=none&flow=xtls-rprx-vision-udp443&security=reality&sni=example.com&fp=android&pbk=KEEEY214&sid=WOW-WOW-W0W&spx=WOW-W0W-WOW&pqv=W0W-WOW-WOW&type=xhttp&host=example.com&path=%2Fproject-return%2Ftest&mode=auto#%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%5B%D0%9F%D0%A0%D0%98%D0%9C%D0%95%D0%A0%5D
