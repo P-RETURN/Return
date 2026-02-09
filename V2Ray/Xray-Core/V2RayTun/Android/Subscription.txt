@@ -1,0 +1,5 @@
+#profile-title: Проект "Возвращение"
+#profile-update-interval: 0
+#subscription-userinfo: upload=0; download=2520072060928; total=0; expire=1772312400
+#announce: Проект "Возвращение", созданный Ретурнером (от англ. Returner - Возвращающийся). Помогаем получать доступ к СМИ, мессенджерам, и прочим источникам "опасной" информации.
+#announce-url: "https://t.me/project_RETURN"
